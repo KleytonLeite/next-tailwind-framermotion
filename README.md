@@ -1,6 +1,6 @@
 # Workshop - Next.js & TailwindCSS & Framer Motion
 
-<h1 align="center">
+<h1 align="center" style="float: right">
   <img src="./public/img/logo.svg">
   <img src="./public/img/nextjs.svg">
   <img src="./public/img/tailwind.svg">
@@ -27,7 +27,7 @@ This project has been developed using the following technologies:
 ```bash
 
 # Clone the repository
-$ git clone https://github.com/KleytonLeite/Projetos_Frontend/tree/main/next/next-tailwind-framermotion.git
+$ git clone https://github.com/KleytonLeite/next-tailwind-framermotion.git
 
 # Enter into the directory
 $ cd next-tailwind-framermotion
