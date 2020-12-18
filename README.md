@@ -1,9 +1,9 @@
 # Workshop - Next.js & TailwindCSS & Framer Motion
 
 <h1 align="center" style="float: right">
-  <img src="./public/img/nextjs.svg">
-  <img src="./public/img/tailwind.svg">
-  <img src="./public/img/framermotion.svg">
+  <img src="./public/img/nextjs.svg" width="320" height="205">
+  <img src="./public/img/tailwind.svg" width="320" height="205">
+  <img src="./public/img/framermotion.svg" width="320" height="205">
 </h1>
 
 ## 📝 Description
