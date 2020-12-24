@@ -6,13 +6,13 @@
   <img src="./public/img/framermotion.svg" width="220" height="105">
 </h1>
 
-## 📝 Description
+## 📝 Descrição
 
 **Next.js & TailwindCSS & Framer Motion** Estudando essas tecnologias .
 
 ---
 
-## 💻 Used Technologies
+## 💻 Tecnologias usadas
 
 This project has been developed using the following technologies:
 
